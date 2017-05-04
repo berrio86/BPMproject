@@ -95,7 +95,22 @@ var TREE_ITEMS = [
             ['Besteen Ikerlanak','../Proiektua/5_Memoria-Besteak/5_0_besteen_ikerlanak.odt',
 					['Orokortasunak', '../Proiektua/5_Memoria-Besteak/5_1_orokortasunak.odt'],
 					['Edukia', '../Proiektua/5_Memoria-Besteak/5_2_edukia.odt']
-            ]
+            ],
+            
+            ['Txantiloiak','../Proiektua/6_Txantiloiak/6_0_txantiloiak.odt',
+					['Architecture notebook', '../Proiektua/6_Txantiloiak/architecture_notebook_tpl.dot'],
+                    ['Iteration plan', '../Proiektua/6_Txantiloiak/iteration_plan_tpl.dot'],
+                    ['Project Plan', '../Proiektua/6_Txantiloiak/project_plan_tpl.dot'],
+                    ['Risk List', '../Proiektua/6_Txantiloiak/risk_list_tpl.xls'],
+                    ['Supporting Requirements Specifications', '../Proiektua/6_Txantiloiak/supporting_req_spec.dot'],
+                    ['Test Cases', '../Proiektua/6_Txantiloiak/test_cases.dot'],
+                    ['Test Script', '../Proiektua/6_Txantiloiak/test_script_tpl.dot'],
+                    ['User Case Specification', '../Proiektua/6_Txantiloiak/uc_specification_tpl.dot'],
+                    ['Use Case Model', '../Proiektua/6_Txantiloiak/use_case_model.doc'],
+                    ['Vision', '../Proiektua/6_Txantiloiak/vision_tpl.dot'],
+                    ['Work Items List', '../Proiektua/6_Txantiloiak/work_items_list_tpl.xls']
+            ],
+            
 			
 	],			
 			
